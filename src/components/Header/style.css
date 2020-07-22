@@ -1,0 +1,41 @@
+header {
+    position: absolute;
+    right: 0;
+    left: 0;
+    z-index: 10;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background: #000;
+}
+
+header span {
+    color: #FFF;
+    cursor: pointer;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+
+li {
+    margin-left: 50px;
+}
+
+.menu-container {
+    margin: 0px 40px;
+    display: flex;
+    align-items: center;
+}
+
+.links-container {
+    margin-left: 35px;
+}
+
+.subhelp-container {
+    display: flex;
+    align-items: center;
+    margin-right: 60px;
+}

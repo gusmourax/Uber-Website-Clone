@@ -1,0 +1,22 @@
+.geolocate-control {
+    margin: 0px 30px 40px 0px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.zoom {
+    margin-bottom: 75px;
+}
+
+.map {
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+}
+
+.centralize-box {
+    position: absolute;
+    right: 12px;
+    bottom: 110px;
+}
